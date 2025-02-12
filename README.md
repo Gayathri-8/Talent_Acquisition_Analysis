@@ -1,4 +1,4 @@
-# Job Recruitment Analysis-
+# Job Recruitment Analysis
 
 The main objective of this project is to analyse a dataset on job recruitment of people using statistical concepts. The data frame consists of 12 attributes and a total of 200 rows. Sorting concept is used where graphs using sorted values are used for better visual representation than unsorted graphs.
 
